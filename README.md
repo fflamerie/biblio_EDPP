@@ -14,7 +14,7 @@ Au cours de cette séance, je vous présenterai différents outils et services q
 
 ### Support de formation
 
-📑 [La recherche documentaire - format PDF]()
+📑 [La recherche documentaire - format PDF](https://github.com/fflamerie/biblio_EDPP/blob/main/doc_EDPP/EDPP_RechBiblio_FFlamerie.pdf)
 
 ## Préparer et rédiger sa bibliographie avec le logiciel libre Zotero
 
@@ -29,7 +29,7 @@ Zotero propose de très nombreuses fonctionnalités, nous nous concentrerons au 
 
 ### Support de formation
 
-📑 [Gérer sa bibliographie avec Zotero - format PDF]()
+📑 [Gérer sa bibliographie avec Zotero - format PDF](https://github.com/fflamerie/biblio_EDPP/blob/main/doc_EDPP/EDPP_Zotero_FFlamerie.pdf)
 
 📝 [Style CSL École des Plantes de Paris](https://raw.githubusercontent.com/fflamerie/zotero_csl/main/docs/ecole-des-plantes-de-paris.csl)
 
