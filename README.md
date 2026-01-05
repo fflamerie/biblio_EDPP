@@ -1,6 +1,6 @@
 # Bibliographie - École des Plantes de Paris
 
-Support des webinaires de recherche documentaire et gestion bibliographique pour les élèves de l'[École des Plantes de Paris](https://ecoledesplantes.net/) - 2 x 1h
+Support des ateliers de recherche documentaire et gestion bibliographique pour les élèves de l'[École des Plantes de Paris](https://ecoledesplantes.net/) - 2 x 1h en visioconférence
 
 ## La recherche documentaire
 
